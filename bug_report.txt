@@ -1,0 +1,18 @@
+ID: 123456
+Environment: Windows 10 x 64
+Browser: Google Chrom, Firefox
+Reporter: Olha Chernikova
+Priority: Medium
+Severity: Major
+Status:	Open
+	
+Title: The image is not shown on the main page.
+	
+Description: The third image is not shown on the main page.
+	
+Steps To Reproduce:	
+	1. Open the site http://trainingcentre.wixsite.com/dogblog.
+	2. Pay attention to the third image on the main page.
+	
+Actual result: The third image is not shown on the main page, but other images are shown on the main page.
+Expected result: All images are shown on the main page.
